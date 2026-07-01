@@ -1,0 +1,89 @@
+{
+  "nav": {
+    "home": "Hjem",
+    "products": "Produkter",
+    "services": "Tjenester",
+    "about": "Om oss",
+    "contact": "Kontakt"
+  },
+  "hero": {
+    "title": "Alt bedriften din trenger bortsett fra mat",
+    "subtitle": "NonFoodGroup AS leverer alt av ikke-matrelaterte produkter til norske bedrifter. Kvalitet, bærekraft og effektive løsninger.",
+    "cta": "Se vårt sortiment",
+    "cta2": "Kontakt oss"
+  },
+  "industries": {
+    "title": "Bransjer vi betjener",
+    "hotell": "Hotell",
+    "klinikk": "Klinikker",
+    "sykehus": "Sykehus",
+    "sykehjem": "Sykehjem",
+    "restaurant": "Restauranter / kafeer",
+    "catering": "Catering",
+    "produksjon": "Produksjon"
+  },
+  "services": {
+    "title": "Våre tjenester",
+    "dyprens_title": "Dyprens & Overflatebehandling",
+    "dyprens_desc": "Profesjonell dyprens som løfter forurensning ut av overflaten, kombinert med spesialtilpasset impregnering som sikrer at resultatet varer i år etter år.",
+    "vann_title": "Vannbehandling, Hygiene & Desinfeksjon",
+    "vann_desc": "Markedsledende løsninger for vannrensing og desinfeksjon. Vår teknologi fjerner biofilm, bakterier og virus effektivt – helt uten bruk av klor.",
+    "web_title": "Web & Digital Synlighet",
+    "web_desc": "Skreddersydde nettløsninger og hosting fra Vikingnet. Vi sørger for at din digitale identitet alltid er profesjonell, moderne og tilgjengelig."
+  },
+  "about": {
+    "title": "Om NonFoodGroup AS",
+    "intro": "Vi forenkler hverdagen for norske bedrifter ved å være totalleverandør av ikke-matrelaterte produkter. Med fokus på kvalitet, bærekraft og effektive innkjøpsløsninger, leverer vi alt din virksomhet trenger – bortsett fra mat.",
+    "history": "For flere år siden oppdaget vi at markedet manglet konkurranse på viktige områder. Med vår solide erfaring innen salg og et stadig voksende nettverk, valgte vi å etablere NonFoodGroup (NFG). Vårt mål er å tilby kundene bedre og smartere løsninger som virkelig gjør en forskjell.",
+    "mission": "Hos NFG ønsker vi å arbeide tett med våre kunder for å utvikle innovative løsninger som møter deres behov. Vi tror på kraften av samarbeid og fokuserer på å skape verdifulle partnerskap. Gennom produktinnovasjon og smarte innkjøp streber vi etter å gi våre kunder besparelser og økt kvalitet.",
+    "values_title": "Våre verdier",
+    "quality": "Kvalitet",
+    "quality_desc": "Vi leverer kun produkter og tjenester av høy kvalitet.",
+    "sustainability": "Bærekraft",
+    "sustainability_desc": "Vi fokuserer på miljøvennlige og bærekraftige løsninger.",
+    "innovation": "Innovasjon",
+    "innovation_desc": "Vi utvikler stadig nye og smartere løsninger for våre kunder.",
+    "partnership": "Partnerskap",
+    "partnership_desc": "Vi bygger langsiktige og verdifulle partnerskap med våre kunder."
+  },
+  "contact": {
+    "title": "Kontakt oss",
+    "subtitle": "Vi ser frem til å samarbeide med deg og din bedrift. Bli en del av vår reise mot en mer bærekraftig og effektiv fremtid!",
+    "form_title": "Send oss en melding",
+    "name": "Navn",
+    "company": "Bedrift",
+    "email": "E-post",
+    "message": "Melding",
+    "send": "Send melding",
+    "sending": "Sender...",
+    "success": "Takk for meldingen! Vi kontakter deg snart.",
+    "address_label": "Adresse",
+    "address": "Sætraveien 28, 3518 Hønefoss",
+    "phone_label": "Telefon",
+    "phone": "+47 467 42 315",
+    "email_label": "E-post",
+    "email_value": "post@nonfoodgroup.no"
+  },
+  "products": {
+    "title": "Våre produkter",
+    "subtitle": "Vi tilbyr et bredt utvalg av nonfood-produkter i mange kategorier. Alt din bedrift trenger – bortsett fra mat.",
+    "search": "Søk etter produkter...",
+    "all_categories": "Alle kategorier",
+    "showing": "Viser",
+    "of": "av",
+    "products": "produkter",
+    "no_results": "Ingen produkter funnet",
+    "try_different": "Prøv et annet søkeord eller kategori",
+    "load_more": "Last flere produkter",
+    "showing_count": "Viser {count} produkter"
+  },
+  "footer": {
+    "tagline": "Totalpartner for din arbeidsplass",
+    "description": "NonFoodGroup AS leverer alt av ikke-matrelaterte produkter til norske bedrifter. Kvalitet, bærekraft og effektive løsninger.",
+    "quick_links": "Hurtiglenker",
+    "contact": "Kontakt",
+    "copyright": "© 2025 NonFoodGroup AS. Alle rettigheter forbeholdt.",
+    "developed_by": "Utviklet av"
+  },
+  "language": "Språk"
+}
